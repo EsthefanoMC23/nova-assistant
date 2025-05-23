@@ -1,0 +1,6 @@
+speechrecognition
+openai
+PyQt5
+requests
+pywin32
+pycryptodome
