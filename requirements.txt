@@ -1,6 +1,13 @@
-speechrecognition
 openai
 PyQt5
-requests
-pywin32
-pycryptodome
+pyttsx3
+SpeechRecognition
+pyaudio
+spotipy
+google-api-python-client
+google-auth
+python-dotenv
+pyautogui
+vosk
+psutil
+asyncio
